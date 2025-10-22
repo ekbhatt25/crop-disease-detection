@@ -1,1 +1,1 @@
-# crop-disease-detection-fastapi-ml-backend
+# crop-disease-detection
